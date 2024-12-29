@@ -10,3 +10,4 @@ minimum = 1
 maximum = 100
 game = BinaryGame.new(minimum, maximum)
 game.play_game
+
